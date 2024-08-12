@@ -15,20 +15,20 @@ export function Checkbox({ title, checked = false, ...rest }: Props) {
       className="flex-row mb-2 items-center"
       {...rest}
     >
-      { checked 
+      {checked
         ?
-        <Animated.View 
+        <Animated.View
           className="h-8 w-8 bg-green-500 rounded-lg items-center justify-center"
           entering={ZoomIn}
           exiting={ZoomOut}
         >
-          <Feather 
+          <Feather
             name="check"
             size={20}
             color={colors.white}
           />
         </Animated.View>
-        : 
+        :
         <View className="h-8 w-8 bg-zinc-900 rounded-lg" />
       }
 
