@@ -11,6 +11,7 @@ import {
 
 import { Loading } from './src/components/Loading';
 import { Routes } from './src/routes/Index';
+import React from 'react';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
