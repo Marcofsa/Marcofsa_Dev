@@ -86,11 +86,3 @@ expo start
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-⭐ If you like this project, give it a star on [GitHub](https://github.com/Marcofsa/Marcofsa_Dev)! 🚀
-
