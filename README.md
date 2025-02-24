@@ -86,3 +86,4 @@ expo start
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
+## Remeber! You can use https://idx.dev to a complete IDE
